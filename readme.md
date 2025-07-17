@@ -7,6 +7,6 @@
 - 🧠 Current Goal: Land a Microsoft UK role by 2027
 - 🛠 Projects in Progress: AI Resume Analyzer, Fraud Detection System
 - 🔭 Next Up: Azure, Power BI & MLOps
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ramisetti-anirudh/) | [Portfolio](#)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ramisetti-anirudh/) | [Portfolio](https://anirudhramisetti.lovable.app/)
 
 📌 *Watch this space — building greatness, one commit at a time.*
